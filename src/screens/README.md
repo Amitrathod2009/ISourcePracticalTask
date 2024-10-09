@@ -30,5 +30,5 @@ eCommerce App is a React Native application designed to provide users with a sea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Amitrathod2009/newRepoTask.git 
-   cd newRepoTask
+   git clone https://github.com/Amitrathod2009/IsourcePracticalTask.git 
+   cd IsourcePracticalTask
